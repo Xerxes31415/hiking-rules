@@ -2,13 +2,16 @@
 
 Here are the rules for the hiking events I'm organizing. I'm documenting them here as a copy from Fetlife, in case it's lost on there.  
 
+## Post on Fetlife:
+
 Here is a longer-form version of the rules for the hiking events that I'm organizing.  These will be expanded and polished as time goes on, but fundamentally shouldn't change the intent.
 
 1. This is a munch style event.  
     1. This means it will be vanilla dress in a vanilla environment. 
     2. Play will NOT be tolerated.  
     3. Please minimize any overtly kinky dress. 
-    4. Be aware that we will be on public trails with vanilla people within earshot. 
+    4. Be aware that we will be on public trails with vanilla people within earshot.
+    5. Respect boundaries 
 2. Bring your own stuff. 
     1. Water
     2. Food
@@ -28,4 +31,4 @@ Here is a longer-form version of the rules for the hiking events that I'm organi
     3. Make sure you know your body well enough to manage the weather and exertion. I'll try to provide as much detail about the hike as I can, but there's only so much I can do.  
 6. No amplified music (not even your phone's internal speaker).
     1. I would prefer you to be here to socialize, but if you are the type that just wants to listen to music, please do so with headphones as to not bother the rest of the group. 
-    2. We're going hiking to be out in nature.  Having amplified music alters that, and makes the decision for other people, which isn't cool.  
+    2. We're going hiking to be out in nature.  Having amplified music alters that, and makes the decision for other people, which isn't cool.
