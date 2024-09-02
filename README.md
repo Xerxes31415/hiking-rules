@@ -23,7 +23,7 @@ Here is a longer-form version of the rules for the hiking events that I'm organi
 3. [Leave No Trace](https://lnt.org/why/7-principles/). 
     1. Pack out anything you brought in. This includes orange peels, apple cores, etc.  
     2. Stay on the trail, and don't create shortcuts and such.
-4. Don't end up alone.  If anything happens, at the very least let someone (ideally a hike leader) know.  Ending up alone is often how people end up with Search and Rescue. ([Example](https://en.wikipedia.org/wiki/Aron_Ralston#Canyoneering_accident))
+4. Don't end up alone.  If anything happens, at the very least let someone (ideally a hike leader) know.  Ending up alone is often how people end up with Search and Rescue. ([Exa](https://en.wikipedia.org/wiki/Aron_Ralston#Canyoneering_accident) [mple](https://www.nbcnews.com/news/us-news/man-got-separated-colleagues-work-retreat-hike-rescued-day-later-rcna168446))
     1. If you're injured, let someone know and we can make sure to get you down safely.
 5. Be responsible for your own self.  
     1. If you encounter a wild animal on the trail, such as a snake or whatnot.  Do not approach it.  If that means it's blocking you from keeping up with the group, then let someone know.  We can wait for you. 
@@ -32,3 +32,5 @@ Here is a longer-form version of the rules for the hiking events that I'm organi
 6. No amplified music (not even your phone's internal speaker).
     1. I would prefer you to be here to socialize, but if you are the type that just wants to listen to music, please do so with headphones as to not bother the rest of the group. 
     2. We're going hiking to be out in nature.  Having amplified music alters that, and makes the decision for other people, which isn't cool.
+7. No pictures without consent. 
+8. If guests are allowed for a specific event, you are responsible for your guests and their behavior. 
